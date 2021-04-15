@@ -7,8 +7,11 @@
         "id": "927d5375363f939a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Living Labs Network.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/Living Labs Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +87,16 @@
     "collapsed": true
   },
   "active": "927d5375363f939a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_notes/Living Labs Network.md",
+    "_notes/Dakkhani Region.md",
+    "_notes/List of Micro-Contexts.md",
+    "_notes/Micro-Contexts.md",
+    "Micro-Contexts.md",
+    "Dakkhani Region.md",
+    "_notes/How-to-setup-this-site.md",
+    "_notes/how-markdown-is-rendered.md",
+    "_notes/micro-contexts.md",
+    "micro-contexts.md"
+  ]
 }
