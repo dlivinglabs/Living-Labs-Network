@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Living Labs Network.md",
+            "file": "about.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Living Labs Network.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "927d5375363f939a",
   "lastOpenFiles": [
+    "about.md",
     "_notes/Living Labs Network.md",
     "_notes/Dakkhani Region.md",
     "_notes/List of Micro-Contexts.md",
@@ -96,7 +97,6 @@
     "Dakkhani Region.md",
     "_notes/How-to-setup-this-site.md",
     "_notes/how-markdown-is-rendered.md",
-    "_notes/micro-contexts.md",
-    "micro-contexts.md"
+    "_notes/micro-contexts.md"
   ]
 }
